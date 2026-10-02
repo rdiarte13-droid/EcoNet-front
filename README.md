@@ -1,3 +1,4 @@
+HEAD
 # EcoNet
 
 Proyecto web educativo sobre el cuidado del medio ambiente.
@@ -237,3 +238,6 @@ Esto ocurre porque el proyecto no utiliza una base de datos.
 npm install
 
 npm run dev
+
+# EcoNet-front
+ 4bb294d9d00a734d9e1caa0d6a6e9def171d5e9e
