@@ -14,7 +14,7 @@ function App() {
             <main>
                 <Presentacion titulo="inicio de la pagina"/>
                 <Video titulo="video explicativo"/>
-                <Lugares lugares={lugares} />
+                <Lugares lugares={lugares} /> 
                 <Comunidades titulo="grupos de intercambio reciclable" />
             </main>
 
