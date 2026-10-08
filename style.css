@@ -12,7 +12,6 @@ body {
 
     /*
         Fondo general.
-        Reemplazar bosque.jpg por otra imagen si se desea.
     */
 
     background-image:
@@ -20,7 +19,7 @@ body {
             rgba(0, 0, 0, 0.55),
             rgba(0, 0, 0, 0.55)
         ),
-        url("/img/bosque.jpg");
+        url("/imagenes/imagen2-bosque.avif");
 
     background-size: cover;
 
