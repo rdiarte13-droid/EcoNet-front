@@ -3,19 +3,19 @@ function Lugares() {
     const lugares = [
         {
            id: 1, nombre: "Bosque Natural",
-            imagen: "/img/lugar1.jpg",
+            imagen: "/imagenes/bosque-natural.jpg",
             descripcion:
                 "Espacio natural donde podemos aprender sobre la importancia de conservar los bosques."
         },
         {
             id: 2, nombre: "Punto Verde",
-            imagen: "/img/lugar2.jpg",
+            imagen: "/imagenes/puntos-verdes.jpeg",
             descripcion:
                 "Lugar destinado a la separación y recepción de diferentes materiales reciclables."
         },
         {
             id: 3, nombre: "Reserva Ecológica",
-            imagen: "/img/lugar3.jpg",
+            imagen: "/imagenes/imagen3-manos.avif",
             descripcion:
                 "Espacio dedicado a la protección de la naturaleza y la biodiversidad."
         }
