@@ -5,6 +5,7 @@ import Lugares from "./components/Lugares.jsx";
 import Comunidades from "./components/Comunidades.jsx";
 import Footer from "./components/Footer.jsx";
 
+
 function App() {
     return (
         <>
