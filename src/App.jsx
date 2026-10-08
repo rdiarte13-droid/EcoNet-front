@@ -11,10 +11,10 @@ function App() {
             <Navbar />
 
             <main>
-                <Presentacion />
-                <Video />
-                <Lugares />
-                <Comunidades />
+                <Presentacion titulo="inicio de la pagina"/>
+                <Video titulo="video explicativo"/>
+                <Lugares lugares={lugares} /> 
+                <Comunidades titulo="grupos de intercambio reciclable" />
             </main>
 
             <Footer />
