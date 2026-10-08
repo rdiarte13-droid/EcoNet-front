@@ -1,6 +1,9 @@
+import { useState } from "react";
+
+
 function Lugares() {
 
-    const lugares = [
+    const [lugares, setLugares] = useState([
         {
            nombre: "Bosque Natural",
             imagen: "/Imagenes/bosque-natural.jpg",
@@ -19,7 +22,7 @@ function Lugares() {
             descripcion:
                 "Espacio dedicado a la protección de la naturaleza y la biodiversidad."
         }
-    ];
+    ]);
 
     return (
         <section
