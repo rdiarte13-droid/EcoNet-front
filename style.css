@@ -6,7 +6,7 @@ html {
 body {  
 /*fondo*/
 .fondo{
-    background-image: url("Imagenes/imagen2-bosque.avif");
+    background-image: url("/public/Imagenes/imagen2-bosque.avif");
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
