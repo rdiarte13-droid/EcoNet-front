@@ -2,7 +2,7 @@ function Navbar() {
     return (
         <header id="inicio">
 
-            <div className="container text-center py-4">
+            <div className="container bg-dark text-center-white py-4">
                 <h1 className="titulo-principal">
                     EcoNet
                 </h1>
