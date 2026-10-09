@@ -9,27 +9,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 
     color: #ffffff;
-
-    /*
-        Fondo
-    */
-
-    background-image:
-        linear-gradient(
-            rgba(0, 0, 0, 0.55),
-            rgba(0, 0, 0, 0.55)
-        ),
-        url("/imagenes/imagen2-bosque.avif");
-
+}
+/*fondo*/
+.fondo{
+    background-image: url("Imagenes/imagen2-bosque.avif");
     background-size: cover;
-
     background-position: center;
-
-    background-attachment: fixed;
-
+    background-repeat:no-repeat;
     min-height: 100vh;
 }
-
 
 /*ENCABEZADO*/
 

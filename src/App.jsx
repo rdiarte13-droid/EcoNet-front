@@ -8,6 +8,7 @@ import Footer from "./components/Footer.jsx";
 
 function App() {
     return (
+        <div className="container-fluid fondo p-0">
         <>
             <Navbar />
 
@@ -20,6 +21,7 @@ function App() {
 
             <Footer />
         </>
+        </div>
     );
 }
 
