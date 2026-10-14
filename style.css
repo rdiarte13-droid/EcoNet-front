@@ -3,7 +3,12 @@ html {
     scroll-behavior: smooth;
 }
 
-
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    position:center;
+}
 /*fondo*/
 .fondo{
     background-image: url("/Imagenes/imagen2-bosque.avif");

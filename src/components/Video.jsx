@@ -13,10 +13,7 @@ function Video() {
 
                 <div className="video-container">
 
-                    {/* 
-                        Video de ejemplo.
-                        Se puede reemplazar por un video propio.
-                    */}
+                   
 
                     <iframe
                         src="https://www.youtube.com/embed/6jQ7y_qQYUA"
@@ -27,8 +24,7 @@ function Video() {
                 </div>
 
                 <p className="mt-3">
-                    En este espacio podés colocar un video educativo
-                    relacionado con el cuidado del medio ambiente.
+                    La importancia de cuidar nuestreo planeta
                 </p>
 
             </div>

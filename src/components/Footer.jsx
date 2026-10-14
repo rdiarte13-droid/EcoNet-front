@@ -59,22 +59,22 @@ function Footer() {
 
                         <p>
                             <strong>Instagram:</strong>{" "}
-                            [Agregar Instagram]
+                            [Eco_net]
                         </p>
 
                         <p>
                             <strong>WhatsApp:</strong>{" "}
-                            [Agregar WhatsApp]
+                            [3813040427]
                         </p>
 
                         <p>
                             <strong>Email:</strong>{" "}
-                            [Agregar Email]
+                            [econet@gmail.com]
                         </p>
 
                         <p>
                             <strong>Ubicación:</strong>{" "}
-                            [Agregar ubicación]
+                            [San miguel de Tucumán, Argentina]
                         </p>
 
                     </div>

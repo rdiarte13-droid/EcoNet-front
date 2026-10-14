@@ -116,7 +116,7 @@ function Comunidades() {
                             <div className="card comunidad-card h-100">
 
                                 <div className="imagen-comunidad">
-                                    <span>Imagen de ejemplo</span>
+                                    <span></span>
                                 </div>
 
                                 <div className="card-body">
